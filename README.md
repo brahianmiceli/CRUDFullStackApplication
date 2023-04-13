@@ -1,16 +1,29 @@
-# FULL STACK APPLICATION - CRUD
+# CRUD - APLICACION FULLSTACK
 
-###### La aplicacion cumple con Agregar, Editar, Actualizar y Eliminar usuario de una lista de agregados.
+Crear un CRUD (Create, Read, Update, Delete) completo.
+La aplicacion cumple con Agregar, Editar, Actualizar y Eliminar usuario de una lista de agregados.
 
-# Tecnologias Usadas:
+## Tabla de contenidos
 
-Backend:
+- [Instalación](#instalación)
+- [Características](#características)
+- [Enlaces](#enlaces)
+- [Video](#video)
+
+
+## Instalación
+
+~~~
+https://github.com/brahianmiceli/CRUDFullStackApplication.git
+~~~
+
+## Características
+
 - Java 17
 - Spring Boot
 - Mysql
-
-Frontend:
-- Javascript
 - React
+- Boostrap
+- Javascript
 - HTML
 - CSS
