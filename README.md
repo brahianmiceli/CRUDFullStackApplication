@@ -13,7 +13,7 @@ La aplicacion cumple con Agregar, Editar, Actualizar y Eliminar usuario de una l
 ## Instalación
 
 ~~~
-https://github.com/brahianmiceli/CRUDFullStackApplication.git
+git clone https://github.com/brahianmiceli/CRUDFullStackApplication.git
 ~~~
 
 ## Características
