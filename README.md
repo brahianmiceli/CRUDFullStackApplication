@@ -7,8 +7,7 @@ La aplicacion cumple con Agregar, Editar, Actualizar y Eliminar usuario de una l
 
 - [Instalación](#instalación)
 - [Características](#características)
-- [Enlaces](#enlaces)
-- [Video](#video)
+
 
 
 ## Instalación
